@@ -1,2 +1,4 @@
 # hello-world
-exercise to familiarize oneself with Github functionality
+Greetings,
+Understanding the structure and functions of the site should prove most useful 
+when it comes time to start editing code.
